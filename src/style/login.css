@@ -1,0 +1,321 @@
+.loginpage-child {
+    position: absolute;
+    top: 0;
+    left: 36.88rem;
+    width: 53.13rem;
+    height: 55.81rem;
+  }
+  .icon {
+    position: absolute;
+    top: 2.13rem;
+    left: 1.13rem;
+    width: 1.88rem;
+    height: 1.88rem;
+    object-fit: cover;
+  }
+  .visual {
+    margin: 0;
+  }
+  .visual-blend-txt-container {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .visual-blend {
+    top: 1.75rem;
+    left: 3.31rem;
+    font-size: var(--font-size-13xl);
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    width: 9.81rem;
+    height: 2.63rem;
+  }
+  .icon1,
+  .login,
+  .visual-blend {
+    position: absolute;
+  }
+  .icon1 {
+    top: 2.56rem;
+    left: 1.56rem;
+    width: 0.63rem;
+    height: 0.63rem;
+    object-fit: cover;
+  }
+  .login {
+    top: 8rem;
+    left: 49.81rem;
+    font-size: var(--font-size-29xl);
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    width: 17rem;
+    height: 1.94rem;
+  }
+  .loginpage-item {
+    position: absolute;
+    top: 18.94rem;
+    left: -15rem;
+    border-radius: 60px;
+    width: 24.9rem;
+    height: 21.56rem;
+  }
+  .welcome {
+    position: absolute;
+    top: 20.44rem;
+    left: 2.06rem;
+    font-size: 6rem;
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    width: 32.13rem;
+    height: 4.25rem;
+  }
+  .generate1 {
+    font-weight: 300;
+  }
+  .span {
+    font-family: var(--font-mada);
+  }
+  .generate {
+    margin-block-start: 0;
+    margin-block-end: 20px;
+  }
+  .explore {
+    margin: 0;
+    font-weight: 300;
+  }
+  .generate-explore-container,
+  .username {
+    position: absolute;
+    top: 25.5rem;
+    left: 2.06rem;
+    font-size: var(--font-size-29xl);
+    letter-spacing: 2px;
+    line-height: 3.13rem;
+    display: flex;
+    align-items: center;
+    width: 32.13rem;
+    height: 9.31rem;
+  }
+  .username {
+    top: 17.5rem;
+    left: 49.81rem;
+    font-size: var(--font-size-13xl);
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    color: var(--color-white);
+    text-align: left;
+    width: 17rem;
+    height: 1.94rem;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    background-color: var(--color-white);
+    width: 27.31rem;
+    height: 3.38rem;
+    cursor: pointer;
+  }
+  .continue {
+    position: absolute;
+    top: 0.11rem;
+    left: 1.46rem;
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24.07rem;
+    height: 3.27rem;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 31.44rem;
+    left: 49.81rem;
+    width: 27.31rem;
+    height: 3.38rem;
+    color: var(--color-crimson);
+  }
+  .continue-without-account-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 14.56rem;
+    height: 3.38rem;
+    cursor: pointer;
+  }
+  .continue-as-guest {
+    position: absolute;
+    top: 0.11rem;
+    left: 0.78rem;
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.83rem;
+    height: 3.27rem;
+  }
+  .continue-without-account {
+    position: absolute;
+    top: 35.63rem;
+    left: 10.88rem;
+    width: 14.56rem;
+    height: 3.38rem;
+    color: var(--color-crimson);
+  }
+  .group-item,
+  .rectangle-group {
+    position: absolute;
+    width: 27.31rem;
+    height: 3.38rem;
+  }
+  .group-item {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    background-color: var(--color-black);
+    cursor: pointer;
+  }
+  .rectangle-group {
+    top: 41.69rem;
+    left: 49.94rem;
+    color: var(--color-white);
+  }
+  .username1 {
+    position: absolute;
+    top: 22.34rem;
+    left: 49.78rem;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 27.38rem;
+    height: 0.06rem;
+  }
+  .or,
+  .password {
+    position: absolute;
+    letter-spacing: -0.09px;
+    line-height: 1.5rem;
+    display: flex;
+    align-items: center;
+  }
+  .or {
+    top: 36.81rem;
+    left: 51.5rem;
+    font-weight: 600;
+    justify-content: center;
+    width: 24.07rem;
+    height: 3.27rem;
+  }
+  .password {
+    top: 24.69rem;
+    left: 49.69rem;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    text-align: left;
+    width: 17rem;
+    height: 1.94rem;
+  }
+  .line-div,
+  .loginpage-inner,
+  .password1 {
+    position: absolute;
+    top: 29.53rem;
+    left: 49.66rem;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 27.38rem;
+    height: 0.06rem;
+  }
+  .line-div,
+  .loginpage-inner {
+    top: 38.41rem;
+    left: 49.78rem;
+    width: 12.06rem;
+  }
+  .line-div {
+    left: 65.09rem;
+  }
+  .loginpage {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 55.81rem;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-mada);
+  }
+  #loginBg{
+    width: 40%;
+    margin: auto;
+    position: relative;
+}
+#loginBg img{
+    width: 100%;
+}
+#loginform{
+    border: 0px solid black;
+    width: 20%;
+    position: absolute;
+    top: 10em;
+    left: 35em;
+    padding: 30px;
+
+    opacity:90%;
+    display: grid;
+    gap: 10px;
+}
+#headingLogin{
+    font-size: 40px;
+    font-weight: Bold;
+    text-align: center;
+    color: black;
+}
+#username,#password{
+    font-weight: bold;
+    font-size: 15px;
+    color: red;
+}
+#loginFormBtn{
+    width: 50%;
+    margin: auto;
+    color: white;
+    background-color: red;
+}
+#loginwithBtn{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    border: 0px solid black;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    cursor: pointer;
+}
+#glogo{
+    width: 10%;
+}
+#glogo img{
+    width: 100%;
+}
+#gtext{
+   color: black;
+}
